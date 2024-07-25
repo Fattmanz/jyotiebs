@@ -44,7 +44,7 @@
       height: 100vh;
       padding: 1%;
       display: none;
-      margin-top: 62.5rem;
+      /* margin-top: 62.5rem; */
       -ms-grid-column-align: left;
       justify-self: left;
       -webkit-box-orient: vertical;
@@ -73,6 +73,7 @@
       position: absolute;
       z-index: 110;
       left: 0;
+      top: 100%;
       border-top-left-radius:0rem;
       border-bottom-left-radius: 0rem;
     }

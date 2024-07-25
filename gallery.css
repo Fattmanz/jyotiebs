@@ -157,7 +157,7 @@ h1 {
       grid-auto-rows: 11rem;
      
       margin-bottom: 3rem;
-      width: 100%;
+      width: 80%;
       -webkit-box-pack: center;
       -webkit-justify-content: center;
           -ms-flex-pack: center;
@@ -498,7 +498,7 @@ margin-bottom: 2rem;
       height: 100vh;
       padding: 1%;
       display: none;
-      margin-top: 62.5rem;
+      /* margin-top: 62.5rem; */
       -ms-grid-column-align: left;
       justify-self: left;
       -webkit-box-orient: vertical;
@@ -527,6 +527,7 @@ margin-bottom: 2rem;
       position: absolute;
       z-index: 110;
       left: 0;
+      top: 100%;
       border-top-left-radius:0rem;
       border-bottom-left-radius: 0rem;
     }
